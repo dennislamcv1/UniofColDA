@@ -1,0 +1,28 @@
+1.
+Question 1
+
+Reflecting on the case study, what was the most challenging aspect of applying classification analysis to solve the real-world problem? How did you overcome this challenge, and what did you learn from it? [Practice this question as if you were in an interview! ]
+1 point
+No answer
+2.
+Question 2
+
+Reflecting on the case study, what was the most challenging aspect of applying regression analysis to solve the real-world problem? How did you overcome this challenge, and what did you learn from it? [Practice this question as if you were in an interview! ]
+1 point
+No answer
+3.
+Question 3
+
+Reflecting on the case study, what was the most challenging aspect of applying clustering and dimension reduction analysis to solve the real-world problem? How did you overcome this challenge, and what did you learn from it? [Practice this question as if you were in an interview! ]
+1 point
+No answer
+4.
+Question 4
+
+Reflecting on the case study, what was the most challenging aspect of applying association rule mining and outlier detection to solve the real-world problem? How did you overcome this challenge, and what did you learn from it? [Practice this question as if you were in an interview! ]
+1 point
+No answer
+5.
+Question 5
+
+Are you ready to apply the knowledge you gained, and to change the world?
